@@ -66,7 +66,7 @@ The bibtex is listed below:
 
 
 ## Issues/PRs/Questions 
-Feel free to contact [me](mailto:zhouyangli@ir.hit.edu.cn) for any questions or create issues/PRs.
+Feel free to contact Libo Qin or me for any questions or create issues/PRs.
 
 ## Acknowledgements
 We thank for the GNN Library [DGL](https://github.com/dmlc/dgl), the open source code of [GLMP](https://github.com/jasonwu0731/GLMP) and [DF-Net](https://github.com/LooperXX/DF-Net).
